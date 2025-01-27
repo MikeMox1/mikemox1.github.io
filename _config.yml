@@ -21,9 +21,8 @@
 title: Michael Moxey
 email: MicMoxey@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a problem-solving, data focused analyst with an ability to adapt to fast paced changes. 
+  I thrive in team environments and pride myself on my enthusiasm.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
